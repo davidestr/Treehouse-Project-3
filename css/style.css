@@ -61,7 +61,8 @@ height:2px;
    color: #1a4e73;
  }
 
- fieldset {
+ .primary-content,
+ .secondary-content  {
    border: none;
    padding: 0;
    margin: 0 auto;
@@ -99,7 +100,9 @@ textarea:focus {
 /* =================================
   Base Layout Styles
 ==================================== */
+.primary-content {
 
+}
 
 .secondary-content {
   display: flex;
