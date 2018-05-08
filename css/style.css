@@ -168,6 +168,10 @@ input[type="submit"] {
     flex: 2;
   }
 
+  .zip label{
+    flex: .48;
+  }
+
   #zipcode {
     flex: none;
     width: 30%;
